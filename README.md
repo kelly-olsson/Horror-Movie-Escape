@@ -1,8 +1,9 @@
-#Horror Movie Escape
-######[Kelly Olsson](https://github.com/kelly-olsson) & [Hannah Kuo](https://github.com/hannah-kuo)
+# Horror Movie Escape
+[Kelly Olsson](https://github.com/kelly-olsson) & [Hannah Kuo](https://github.com/hannah-kuo)  
+
 Horror Movie Escape is a text-based simple dungeon crawler with a real-time synchronized map and ASCII art features.
 
-##Installation 
+## Installation 
 Import PrettyTable from the prettytable library
 
 ```bash
@@ -10,9 +11,9 @@ python -m pip install -U prettytable
 ```
 More information [here](https://pypi.org/project/prettytable/)
 
-##Python Features Used
+## Key Python Features Used
 
-|                Features Used                         |  Location (line number) |
+|                Features                         |  Location (line number) |
 |---------------------------------------------------------|-------------------------|
 |  Tuple                                                  |  1501             
 |  List                                                   |  566
